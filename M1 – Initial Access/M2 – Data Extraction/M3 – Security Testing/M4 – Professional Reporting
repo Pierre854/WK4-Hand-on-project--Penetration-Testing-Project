@@ -1,0 +1,72 @@
+Hospital Web Application – Penetration Testing Project
+
+Training Organization: Networkwalks
+Project Type: Authorized Hands-on Penetration Testing
+Assessment: Hospital Web Application
+Status: M4 – Professional Reporting
+
+Project Overview
+
+This project involved a practical, authorized penetration-testing assessment of a hospital web application in a controlled educational environment.
+
+The objective was to evaluate the application's security, investigate potential vulnerabilities, assess protected document security and identify possible exposure of sensitive organizational information.
+
+Project Milestones
+
+M1 – Initial Access
+
+- Web application reconnaissance and assessment.
+- Investigation of authentication mechanisms.
+- Retrieval of three designated PDF laboratory reports.
+
+M2 – Data Extraction
+
+- Examination of PDF encryption.
+- Password hash analysis.
+- Authorized password recovery testing.
+
+M3 – Security Testing
+
+- Investigation of staff salary information exposure.
+- Assessment of shareholder information exposure.
+- Evaluation of potential information disclosure.
+
+M4 – Professional Reporting
+
+- Documentation of assessment methodology.
+- Recording of security observations and validated findings.
+- Development of remediation recommendations.
+
+Tools and Technologies
+
+- Kali Linux
+- Burp Suite
+- Nmap
+- Gobuster
+- Nikto
+- John the Ripper
+- Linux command-line utilities
+
+Skills Demonstrated
+
+- Web application reconnaissance
+- Authentication security assessment
+- SQL injection investigation
+- HTTP request and response analysis
+- PDF encryption assessment
+- Password hash analysis
+- Information disclosure assessment
+- Security documentation and reporting
+
+Conclusion
+
+This project provided valuable hands-on experience applying penetration-testing methodologies to a simulated hospital web application.
+
+It strengthened my ability to investigate security weaknesses, work with industry-standard tools, analyse technical evidence and document security findings professionally.
+
+The completion of this project represents another important step in my development towards becoming a skilled penetration tester.
+
+Researcher: PyrX 
+Training Organization: Networkwalks
+
+Disclaimer: Conducted within an authorized educational testing environment. Sensitive assessment data, credentials and confidential documents are excluded from this repository.
